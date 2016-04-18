@@ -1,0 +1,7 @@
+/* Footer widget styles*/
+.f-widget {
+display: block;
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+}
