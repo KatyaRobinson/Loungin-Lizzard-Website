@@ -1,0 +1,18 @@
+/* Footer widget styles*/
+.f-widget {
+display: block;
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+text-align: center;
+}
+
+/* Adjusting appearance of category pictures on front page */
+.row-fluid .span4 {
+    padding-left: 5%;
+    width: 30%;
+}
+/* Removed list style disc for the pages list in footer */
+ul, menu, dir {
+list-style-type: none;
+}
