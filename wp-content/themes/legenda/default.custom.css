@@ -27,4 +27,17 @@ list-style-type: none;
 border-radius: 50%;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Parisienne);
+.our-story p{
+	font-size: 16px;
+	text-align: justify;
+	padding: 0px 10%;
+}
+.our-story img {
+	margin-left: 40px;
+	
+}
+
+.pretty-font {
+	font-family: Parisienne;
+font-size: 24px;
+}
