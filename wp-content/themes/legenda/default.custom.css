@@ -1,3 +1,6 @@
+/*Custom CSS file by Katya Gurina*/
+
+
 /* Footer widget styles*/
 .f-widget {
 display: block;
@@ -16,3 +19,12 @@ text-align: center;
 ul, menu, dir {
 list-style-type: none;
 }
+
+/*Welcome page styles*/
+
+/* Makes welcome page features icon images round */
+.sow-icon-image {
+border-radius: 50%;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Parisienne);

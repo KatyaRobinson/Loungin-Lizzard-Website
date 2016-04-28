@@ -37,7 +37,7 @@
 
 			wp_head();
 		?>
-        
+        <link href='https://fonts.googleapis.com/css?family=Parisienne' rel='stylesheet' type='text/css'>
 </head>
 <body <?php body_class(); ?>>
 	<?php if(etheme_get_option('mobile_loader')): ?>
