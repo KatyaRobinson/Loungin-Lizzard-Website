@@ -1,0 +1,43 @@
+/*Custom CSS file by Katya Gurina*/
+
+
+/* Footer widget styles*/
+.f-widget {
+display: block;
+    float: left;
+    margin-left: 5%;
+    width: 20%;
+text-align: center;
+}
+
+/* Adjusting appearance of category pictures on front page */
+.row-fluid .span4 {
+    padding-left: 5%;
+    width: 30%;
+}
+/* Removed list style disc for the pages list in footer */
+ul, menu, dir {
+list-style-type: none;
+}
+
+/*Welcome page styles*/
+
+/* Makes welcome page features icon images round */
+.sow-icon-image {
+border-radius: 50%;
+}
+
+.our-story p{
+	font-size: 16px;
+	text-align: justify;
+	padding: 0px 10%;
+}
+.our-story img {
+	margin-left: 40px;
+	
+}
+
+.pretty-font {
+	font-family: Parisienne;
+font-size: 24px;
+}
